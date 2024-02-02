@@ -4,7 +4,7 @@ Ryan Horng
 
 ### Article
 
-[AI Technology Like ChatGPT Will Reshape Software Coding Jobs Forever]("https://www.businessinsider.com/chatgpt-ai-technology-end-of-coding-software-developers-jobs-2023-4")
+[AI Technology Like ChatGPT Will Reshape Software Coding Jobs Forever](https://www.businessinsider.com/chatgpt-ai-technology-end-of-coding-software-developers-jobs-2023-4)
 
 ### Analysis
 
