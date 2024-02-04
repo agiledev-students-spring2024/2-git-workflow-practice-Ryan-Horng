@@ -12,4 +12,4 @@ This article brings up many good points regarding the fear of some people have o
 
 ### Comment from Robert (Bobby) Impastato
 
-Hi Ryan, I mostly agree with your analysis. With a lot of "code monkey" jobs potentially being replaced, I think AI is mainly a threat to junior developers with little experience, who have, over the last decade, faced a better job market. I think we have a long way to go until AI it truly anywhere close to "breaking" the industry. The demand for software engineers is growing much faster than other jobs, which may balance the potential jobs lost due to greater worker efficiency.
+Hi Ryan, I mostly agree with your analysis. With a lot of "code monkey" jobs potentially being replaced, I think AI is mainly a threat to junior developers with less experience, who have, over the last decade, faced a better job market. I think we have a long way to go until AI it truly anywhere close to "breaking" the industry. The demand for software engineers is growing much faster than other jobs, which may balance the potential jobs lost due to greater worker efficiency.
